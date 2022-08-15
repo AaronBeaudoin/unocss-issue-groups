@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "unocss": "^0.45.7",
+    "vite": "^3.0.7"
+  }
+}
